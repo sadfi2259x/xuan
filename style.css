@@ -1,4 +1,12 @@
-body{font-family:Arial;font-size:16px;text-align:center;background-image:url('bg.jpg');background-repeat:repeat;}
+body {
+  font-family:Arial;
+  font-size:16px;
+  text-align:center;
+  background-image:url('bg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
 a{color:#DE0000;text-decoration:none;}
 a:hover{color:#FF8000;font-weight:bold;}
 img{border:0;}
